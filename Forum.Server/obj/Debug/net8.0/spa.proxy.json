@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:19292",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Slimz\\Desktop\\BTL_IT15_De05\\Forum\\Forum.Server\\..\\forum.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
