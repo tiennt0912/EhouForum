@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\ehou_BTL\IT09-IT15\IT15\De05\Forum\forum.client\obj\Debug\forum.client.esproj.CoreCompileInputs.cache
+C:\Users\Slimz\Desktop\BTL_IT15_De05\Forum\forum.client\obj\Debug\forum.client.esproj.CoreCompileInputs.cache
